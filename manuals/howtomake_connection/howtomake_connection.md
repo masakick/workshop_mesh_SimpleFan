@@ -15,9 +15,7 @@
 
 図のように差し込みます。（タグの向きを間違えないように）
 
-![IMG_1259](howtomake_connection.assets/IMG_1259-5358151.JPG)
-
-
+<img src="howtomake_connection.assets/IMG_1259.JPG" alt="IMG_1259" style="zoom:67%;" />
 
 # 電池ボックス、モーターをつなぐ
 
