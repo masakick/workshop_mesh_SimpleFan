@@ -17,7 +17,7 @@ Sony MESHを使い簡単な風車を作ってまわします。
 
 * 風車の土台部分の作り方
   * [リンク](manuals/howtomake_base/howtomake_base.md)
-  * [PDF](manuals/howtomake_base.md/howtomake_base.pdf)
+  * [PDF](manuals/howtomake_base/howtomake_base.pdf)
 * モーターとMESH（GPIO） をつなぐ回路の作り方
   * [リンク](manuals/howtomake_connection/howtomake_connection.md)
   * [PDF](manuals/howtomake_connection/howtomake_connection.pdf)
