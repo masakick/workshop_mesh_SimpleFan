@@ -26,7 +26,7 @@ Sony MESHを使い簡単な風車を作ってまわします。
   * [PDF](manuals/howtomake_fun/howtomake_fun.pdf)
 * MESHアプリのレシピの作り方
   * [リンク](manuals/mesh_recipe/mesh_recipe.md)
-  * [PDF](manuals/mesh_recipe/mesh_recipe/pdf)
+  * [PDF](manuals/mesh_recipe/mesh_recipe.pdf)
 
 ## ワークショップ実施履歴
 
