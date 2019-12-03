@@ -16,17 +16,17 @@ Sony MESHを使い簡単な風車を作ってまわします。
 ## 資料
 
 * 風車の土台部分の作り方
-  * [リンク](howtomake_base/howtomake_base.md)
-  * [PDF](howtomake_base.md/howtomake_base.pdf)
+  * [リンク](manuals/howtomake_base/howtomake_base.md)
+  * [PDF](manuals/howtomake_base.md/howtomake_base.pdf)
 * モーターとMESH（GPIO） をつなぐ回路の作り方
-  * [リンク](howtomake_connection/howtomake_connection.md)
-  * [PDF](howtomake_connection/howtomake_connection.pdf)
+  * [リンク](manuals/howtomake_connection/howtomake_connection.md)
+  * [PDF](manuals/howtomake_connection/howtomake_connection.pdf)
 * プロペラ部分の作り方
-  * [リンク](howtomake_fun/howtomake_fun.md)
-  * [PDF](howtomake_fun/howtomake_fun.pdf)
+  * [リンク](manuals/howtomake_fun/howtomake_fun.md)
+  * [PDF](manuals/howtomake_fun/howtomake_fun.pdf)
 * MESHアプリのレシピの作り方
-  * [リンク](mesh_recipe/mesh_recipe.md)
-  * [PDF](mesh_recipe/mesh_recipe/pdf)
+  * [リンク](manuals/mesh_recipe/mesh_recipe.md)
+  * [PDF](manuals/mesh_recipe/mesh_recipe/pdf)
 
 ## ワークショップ実施履歴
 
