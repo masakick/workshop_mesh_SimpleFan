@@ -13,7 +13,7 @@ Sony MESHを使い簡単な風車を作ってまわします。
 
 * [2019/12/01「まなびカフェ  IoTプログラミング体験」@manabino](https://www.facebook.com/events/1446982945469237/)
 
-#### ＜この資料について＞
+## この資料について
 
 この資料は山辺真幸が実施した（または実施予定の）ワークショップのレシピを公開したものです。安全に実施できるよう配慮していますが、いかなる損害の賠償や補償もいたしかねます。利用される方の責任においてご利用ください。
 
@@ -28,7 +28,7 @@ __①紙媒体で利用する場合__
 __②ウェブで利用する場合__
 
 > 「Sony MESHを使い簡単な風車を作る」
-> ©山辺真幸（[クリエイティブ・コモンズ（表示4.0国際）][https://creativecommons.org/licenses/by/4.0/]）
+> ©山辺真幸（[クリエイティブ・コモンズ（表示4.0国際）](https://creativecommons.org/licenses/by/4.0/)）
 
 __③改変したものを紙媒体で利用する場合__
 
@@ -40,7 +40,5 @@ __④改変したものをウェブで利用する場合__
 
 > 「Sony MESHを使い簡単な風車を作る」を改変
 > ©山辺真幸（[クリエイティブ・コモンズ（表示4.0国際](https://creativecommons.org/licenses/by/4.0/)））
-
-<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" target=_blank><img src ="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="25%"></a>
 
 お問い合わせ：masakiyamabe[at]gmail.com
