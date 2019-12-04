@@ -6,7 +6,7 @@
 
 ![IMG_1206](howtomake_fun.assets/IMG_1206.jpg)
 
-#③羽の部分を広げましょう
+# ③羽の部分を広げましょう
 
 ![IMG_1210](howtomake_fun.assets/IMG_1210.jpg)
 
